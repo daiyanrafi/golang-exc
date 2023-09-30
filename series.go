@@ -19,4 +19,5 @@ func main() {
 		sum = sum + i
 	}
 	fmt.Printf("sum = %v\n",sum)
+	// fmt.Println(sum)
 }	
