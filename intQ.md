@@ -1,5 +1,6 @@
 # Interview Questions
 
+
 Q: Why is multi-threading so popular in golang ?
 
 A: Most of the programming languages create `kernel-level` threads, which incurs a large amount of overhead and may lead to expensive context switches.
